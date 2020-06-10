@@ -61,12 +61,9 @@
 					<li class="active"><a href="./index.php">Home</a></li>
 					<li><a href="./about.php">About Us</a></li>
 					<li><a href="./contact.php">Contact & Location</a></li>
-<<<<<<< HEAD
 					<li><a href="./projdesc.php">Project Description</a></li>
 					<li><a href=".img/chart.pdf">Organisation Chart</a></li>
-=======
 					
->>>>>>> 2d8148fd4a9698bb7da4947cebe076e1cb19a699
 				</ul>
 
 			<div class="copyright">BITP3353 GROUP 9  @ All rights reserved</div>
@@ -93,11 +90,6 @@
 					</div>
 				
 				</div>
-				
-<<<<<<< HEAD
-=======
-			
->>>>>>> 2d8148fd4a9698bb7da4947cebe076e1cb19a699
 		<!-- Page section end-->
 	</div>
 
