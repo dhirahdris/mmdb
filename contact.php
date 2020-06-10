@@ -58,9 +58,9 @@
 				</a>
 				<img src="img/menu-icon.png" alt="" class="menu-icon">
 				<ul class="main-menu">
-					<li><a href="./home.html">Home</a></li>
-					<li><a href="./about.html">About Us</a></li>
-					<li class="active"><a href="./contact.html">Contact & Location</a></li>
+					<li><a href="./home.php">Home</a></li>
+					<li><a href="./about.php">About Us</a></li>
+					<li class="active"><a href="./contact.php">Contact & Location</a></li>
 				</ul>
 				<div class="social-links-warp">
 					<div class="social-links">

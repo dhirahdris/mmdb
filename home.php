@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-	<title>Contact Us</title>
+	<title>FTMK NAVIGATION</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Photo Gallery HTML Template">
 	<meta name="keywords" content="endGam,gGaming, magazine, html">
@@ -58,53 +58,37 @@
 				</a>
 				<img src="img/menu-icon.png" alt="" class="menu-icon">
 				<ul class="main-menu">
-					<li><a href="./home.html">Home</a></li>
-					<li><a href="./about.html">About Us</a></li>
-					<li class="active"><a href="./contact.html">Contact & Location</a></li>
+					<li class="active"><a href="./home.php">Home</a></li>
+					<li><a href="./about.php">About Us</a></li>
+					<li class="active"><a href="./contact.php">Contact & Location</a></li>
 				</ul>
-				<div class="social-links-warp">
-					<div class="social-links">
-						<a href=""><i class="fa fa-behance"></i></a>
-						<a href=""><i class="fa fa-dribbble"></i></a>
-						<a href=""><i class="fa fa-twitter"></i></a>
-						<a href=""><i class="fa fa-facebook"></i></a>
-						<a href=""><i class="fa fa-pinterest"></i></a>
-					</div>
-					<div class="social-text">Find us on</div>
-				</div>
-			</div>
+
 			<div class="copyright">BITP3353 GROUP 9  @ All rights reserved</div>
 		</header>
 		<!-- header section end -->
 
 		<!-- Page section -->
-		<div class="page-section contact-page">
-			<div class="contact-warp">
-				<div class="row">
-					<div class="col-xl-6 p-0">
-						<div class="contact-text">
-							<span>Say hello</span>
-							<h2>Get in touch</h2>
-							<form class="contact-form">
-								<input type="text" placeholder="Your name">
-								<input type="text" placeholder="Your email">
-								<input type="text" placeholder="Subject">
-								<textarea placeholder="Message"></textarea>
-								<button class="site-btn">Send message</button>
-							</form>
-							<div class="contac-info">
-								<p>Main Str, no 23, New York</p>
-								<p>+546 990221 123</p>
-								<p>hosting@contact.com</p>
-							</div>
-						</div>
+		<div class="page-section home-page">
+			<div class="hero-slider owl-carousel">
+				<div class="slider-item d-flex align-items-center set-bg" data-setbg="img/ftmk.jpg" data-hash="slide-1">
+					<div class="si-text-box">
+						<span>FACULTY INFOMATION & COMMUNICATION TECHNOLOGY</span>
+						<p>Faculty of Information and Communication Technology (FTMK) was one of the earliest formed faculty at Kolej Universiti Teknikal Kebangsaan Malaysia (KUTKM) on the 1st of December 2000. The Faculty started to operate on 22 June 2001 with its pioneer batch of students of academic session 2001/2002. Since 1st February 2007, KUTKM is known as Universiti Teknikal Malaysia Melaka (UTeM)
+						<br />
+						The Faculty established 5 departments as below:
+						<br />
+						Department of Computer System & Communication
+						<br />
+						Department of Interactive Media
+						<br />
+						Department of Intelligent Computing & Analytics
+						<br />
+						Department of Diploma Studies</p>
 					</div>
-					<div class="col-xl-6 p-0">
-						<div class="map-warp"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14376.077865872314!2d-73.879277264103!3d40.757667781624285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1546528920522" style="border:0" allowfullscreen></iframe></div>
-					</div>
+				
 				</div>
-			</div>
-		</div>
+				
+			
 		<!-- Page section end-->
 	</div>
 

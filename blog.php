@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-	<title>Contact Us</title>
+	<title>Photo Gallery HTML Template</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Photo Gallery HTML Template">
 	<meta name="keywords" content="endGam,gGaming, magazine, html">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- Favicon -->
-	<link href="img/Logo-FTMK.png" rel="shortcut icon"/>
+	<link href="img/favicon.ico" rel="shortcut icon"/>
 
 	<!-- Google Font -->
 	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i" rel="stylesheet">
@@ -54,13 +54,15 @@
 			</div>
 			<div class="header-warp">
 				<a href="" class="site-logo">
-					<img src="./img/Logo-FTMK.png" alt="">
+					<img src="./img/logo.png" alt="">
 				</a>
 				<img src="img/menu-icon.png" alt="" class="menu-icon">
 				<ul class="main-menu">
-					<li><a href="./home.html">Home</a></li>
-					<li><a href="./about.html">About Us</a></li>
-					<li class="active"><a href="./contact.html">Contact & Location</a></li>
+					<li><a href="./home.php">Home</a></li>
+					<li><a href="./gallery.php">Gallery</a></li>
+					<li><a href="./gallery-single.php">Single gallery</a></li>
+					<li class="active"><a href="./blog.php">Blog</a></li>
+					<li><a href="./contact.php">Contact</a></li>
 				</ul>
 				<div class="social-links-warp">
 					<div class="social-links">
@@ -73,35 +75,43 @@
 					<div class="social-text">Find us on</div>
 				</div>
 			</div>
-			<div class="copyright">BITP3353 GROUP 9  @ All rights reserved</div>
+			<div class="copyright">Colorlib 2018  @ All rights reserved</div>
 		</header>
 		<!-- header section end -->
 
+
 		<!-- Page section -->
-		<div class="page-section contact-page">
-			<div class="contact-warp">
-				<div class="row">
-					<div class="col-xl-6 p-0">
-						<div class="contact-text">
-							<span>Say hello</span>
-							<h2>Get in touch</h2>
-							<form class="contact-form">
-								<input type="text" placeholder="Your name">
-								<input type="text" placeholder="Your email">
-								<input type="text" placeholder="Subject">
-								<textarea placeholder="Message"></textarea>
-								<button class="site-btn">Send message</button>
-							</form>
-							<div class="contac-info">
-								<p>Main Str, no 23, New York</p>
-								<p>+546 990221 123</p>
-								<p>hosting@contact.com</p>
+		<div class="page-section blog-page">
+			<div class="blog-warp">
+				<div class="blog-track">
+					<div class="blog-post">
+						<div class="blog-thumb set-bg" data-setbg="img/blog/1.jpg">
+							<div class="post-date">
+								<h3>10</h3>
+								<span>Dec, ‘18</span>
 							</div>
 						</div>
+						<h2 class="post-title">The best tips & tricks</h2>
+						<div class="post-metas">
+							<div class="post-meta">By Michael Smith</div>|
+							<div class="post-meta">In photography</div>
+						</div>
+						<p>Ut pellentesque auctor lorem, at maximus lacus faucibus nec. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris auctor nunc non nulla euismod consequat. Pellentesque non mattis nulla. Fusce quis tempor risus, non elemen tum dui. Curabitur et mattis ex, a ultrices. Ut pellentesque auctor lorem, at maximus lacus faucibus nec. Interdum et malesuada fames ac ante ipsum primis in faucibus. </p>
 					</div>
-					<div class="col-xl-6 p-0">
-						<div class="map-warp"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14376.077865872314!2d-73.879277264103!3d40.757667781624285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1546528920522" style="border:0" allowfullscreen></iframe></div>
+					<div class="blog-post">
+					<div class="blog-thumb set-bg" data-setbg="img/blog/2.jpg">
+						<div class="post-date">
+							<h3>10</h3>
+							<span>Dec, ‘18</span>
+						</div>
 					</div>
+					<h2 class="post-title">The best tips & tricks</h2>
+					<div class="post-metas">
+						<div class="post-meta">By Michael Smith</div>|
+						<div class="post-meta">In photography</div>
+					</div>
+					<p>Ut pellentesque auctor lorem, at maximus lacus faucibus nec. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris auctor nunc non nulla euismod consequat. Pellentesque non mattis nulla. Fusce quis tempor risus, non elemen tum dui. Curabitur et mattis ex, a ultrices. Ut pellentesque auctor lorem, at maximus lacus faucibus nec. Interdum et malesuada fames ac ante ipsum primis in faucibus. </p>
+				</div>
 				</div>
 			</div>
 		</div>
