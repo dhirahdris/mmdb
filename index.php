@@ -61,6 +61,7 @@
 					<li class="active"><a href="./home.php">Home</a></li>
 					<li><a href="./about.php">About Us</a></li>
 					<li class="active"><a href="./contact.php">Contact & Location</a></li>
+					
 				</ul>
 
 			<div class="copyright">BITP3353 GROUP 9  @ All rights reserved</div>
@@ -88,8 +89,7 @@
 				
 				</div>
 				
-			<a href="projdesc.php" class="site-btn about-btn">Click to see next team member</a>
-					
+			
 		<!-- Page section end-->
 	</div>
 

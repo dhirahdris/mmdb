@@ -80,7 +80,7 @@
 				
 				</div>
 				
-			<a href="**the chart's link**" class="site-btn about-btn">Click to see next team member</a>
+			<a href="img/chart.pdf" class="site-btn about-btn">CLICK ME TO SEE THE ORGANISATION CHART</a>
 					
 		<!-- Page section end-->
 	</div>

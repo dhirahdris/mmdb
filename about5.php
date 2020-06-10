@@ -85,7 +85,7 @@
 						<div class="about-text">
 							<span>MULTIMEDIA DESIGNER | AINA MIZANINA</span>
 							<h2>About the Multimedia Designer</h2>
-							<a href="" class="site-btn about-btn">CLICK ME</a>
+							<a href="img/resumeAinaMizanina.pdf" class="site-btn about-btn">CLICK ME</a>
 						</div>
 						
 						<a href="./about6.php" class="site-btn about-btn">Click to see next team member</a>

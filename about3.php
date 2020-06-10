@@ -85,7 +85,7 @@
 						<div class="about-text">
 							<span>INTERFACE DESIGNER | VENOLIA</span>
 							<h2>About the Interface Designer</h2>
-							<a href="" class="site-btn about-btn">CLICK ME</a>
+							<a href="img/RESUME_VENOLIA.pdf" class="site-btn about-btn">CLICK ME</a>
 						</div>
 						
 						<a href="./about4.php" class="site-btn about-btn">Click to see next team member</a>

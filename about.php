@@ -85,7 +85,7 @@
 						<div class="about-text">
 							<span>PROJECT MANAGER | NADHIRAH</span>
 							<h2>About the Project Manager</h2>
-							<a href="img/Resumenadhirah" class="site-btn about-btn">CLICK ME</a>
+							<a href="img/Resumenadhirah.pdf" class="site-btn about-btn">CLICK ME</a>
 						</div>
 						
 						<a href="./about2.php" class="site-btn about-btn">Click to see next team member</a>

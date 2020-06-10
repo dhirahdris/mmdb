@@ -85,7 +85,7 @@
 						<div class="about-text">
 							<span>TESTER | YOGA</span>
 							<h2>About the Tester</h2>
-							<a href="" class="site-btn about-btn">CLICK ME</a>
+							<a href="img/Yoga resume.pdf" class="site-btn about-btn">CLICK ME</a>
 						</div>
 						
 						

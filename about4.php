@@ -85,7 +85,7 @@
 						<div class="about-text">
 							<span>PROGRAMMER | PUVANESWARY</span>
 							<h2>About the Programmer</h2>
-							<a href="" class="site-btn about-btn">CLICK ME</a>
+							<a href="img/PuvaResume.pdf" class="site-btn about-btn">CLICK ME</a>
 						</div>
 						
 						<a href="./about5.php" class="site-btn about-btn">Click to see next team member</a>
