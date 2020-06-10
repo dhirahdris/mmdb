@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-	<title>Photo Gallery HTML Template</title>
+	<title>About Us</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Photo Gallery HTML Template">
 	<meta name="keywords" content="endGam,gGaming, magazine, html">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- Favicon -->
-	<link href="img/favicon.ico" rel="shortcut icon"/>
+	<link href="img/Logo-FTMK.png" rel="shortcut icon"/>
 
 	<!-- Google Font -->
 	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i" rel="stylesheet">
@@ -54,15 +54,13 @@
 			</div>
 			<div class="header-warp">
 				<a href="" class="site-logo">
-					<img src="./img/logo.png" alt="">
+					<img src="./img/Logo-FTMK.png" alt="">
 				</a>
 				<img src="img/menu-icon.png" alt="" class="menu-icon">
 				<ul class="main-menu">
-					<li><a href="./home.html">Home</a></li>
-					<li><a href="./gallery.html">Gallery</a></li>
-					<li class="active"><a href="./gallery-single.html">Single gallery</a></li>
-					<li><a href="./blog.html">Blog</a></li>
-					<li><a href="./contact.html">Contact</a></li>
+					<li class="active"><a href="./index.php">Home</a></li>
+					<li><a href="./about.php">About Us</a></li>
+					<li class="active"><a href="./contact.php">Contact & Location</a></li>
 				</ul>
 				<div class="social-links-warp">
 					<div class="social-links">
@@ -75,36 +73,31 @@
 					<div class="social-text">Find us on</div>
 				</div>
 			</div>
-			<div class="copyright">Colorlib 2018  @ All rights reserved</div>
+			<div class="copyright">BITP3353 GROUP 9  @ All rights reserved</div>
 		</header>
 		<!-- header section end -->
 
 		<!-- Page section -->
-		<div class="page-section gallery-single-page">
-			<div class="gallery-single-warp">
+		<div class="page-section about-page">
+			<div class="about-warp">
 				<div class="row">
-					<div class="col-xl-6 p-0">
-						<div class="gallery-single-slider owl-carousel">
-							<img src="img/gallery-single/1.jpg" alt="">
-							<img src="img/gallery-single/2.jpg" alt="">
+					<div class="col-xl-7 order-2 order-xl-1">
+						<div class="about-text">
+							<span>MULTIMEDIA DESIGNER | AINA MIZANINA</span>
+							<h2>About the Multimedia Designer</h2>
+							<a href="" class="site-btn about-btn">CLICK ME</a>
 						</div>
+						
+						<a href="./about6.php" class="site-btn about-btn">Click to see next team member</a>
 					</div>
-					<div class="col-xl-6 p-0">
-						<div class="gallery-single-text">
-							<span>Photography</span>
-							<h2>Puppy Eyes</h2>
-							<ul>
-								<li><span>Client:</span>Company Name</li>
-								<li><span>Date:</span>August 25, 2018</li>
-								<li><span>Categorie:</span>Animal Photography</li>
-								<li><span>Tags:</span>animals, dogs, photography</li>
-							</ul>
-							<p>Ut pellentesque auctor lorem, at maximus lacus faucibus nec. Interdum et malesua-da fames ac ante ipsum primis in faucibus. Mauris auctor nunc non nulla euismod consequat. Pellentesque non mattis nulla. Fusce quis tempor risus, non elemen tum dui. Curabitur et mattis ex, a ultrices. Ut pellentesque auctor lorem, at maximus lacus faucibus nec. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris auctor nunc non nulla euismod consequat. Pellentesque non mattis nulla. Fusce quis tempor risus, non elemen tum dui. Curabitur et mattis ex, a ultrices.</p>
-							<p>Ut pellentesque auctor lorem, at maximus lacus faucibus nec. Interdum et malesua-da fames ac ante ipsum primis in faucibus. Mauris auctor nunc non nulla euismod consequat. Pellentesque non mattis nulla. Fusce quis tempor risus, non elemen tum dui. Curabitur et mattis ex, a ultrices.</p>
+					<div class="col-xl-4 offset-xl-1 order-1 order-xl-2 offset-0 pl-0">
+						<div class="about-image">
+							<img src="img/" alt="">
 						</div>
 					</div>
 				</div>
 			</div>
+
 		</div>
 		<!-- Page section end-->
 	</div>
@@ -130,6 +123,5 @@
 	<script src="js/imagesloaded.pkgd.min.js"></script>
 	<script src="js/circle-progress.min.js"></script>
 	<script src="js/main.js"></script>
-
 	</body>
 </html>

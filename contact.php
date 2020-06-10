@@ -58,7 +58,7 @@
 				</a>
 				<img src="img/menu-icon.png" alt="" class="menu-icon">
 				<ul class="main-menu">
-					<li><a href="./home.php">Home</a></li>
+					<li><a href="./index.php">Home</a></li>
 					<li><a href="./about.php">About Us</a></li>
 					<li class="active"><a href="./contact.php">Contact & Location</a></li>
 				</ul>

@@ -58,9 +58,9 @@
 				</a>
 				<img src="img/menu-icon.png" alt="" class="menu-icon">
 				<ul class="main-menu">
-					<li class="active"><a href="./home.html">Home</a></li>
-					<li><a href="./about.html">About Us</a></li>
-					<li class="active"><a href="./contact.html">Contact & Location</a></li>
+					<li class="active"><a href="./index.php">Home</a></li>
+					<li><a href="./about.php">About Us</a></li>
+					<li class="active"><a href="./contact.php">Contact & Location</a></li>
 				</ul>
 				<div class="social-links-warp">
 					<div class="social-links">
@@ -83,12 +83,12 @@
 				<div class="row">
 					<div class="col-xl-7 order-2 order-xl-1">
 						<div class="about-text">
-							<span>MULTIMEDIA DESIGNER | AINA MIZANINA</span>
-							<h2>About the Multimedia Designer</h2>
+							<span>TESTER | YOGA</span>
+							<h2>About the Tester</h2>
 							<a href="" class="site-btn about-btn">CLICK ME</a>
 						</div>
 						
-						<a href="./about6.html" class="site-btn about-btn">Click to see next team member</a>
+						
 					</div>
 					<div class="col-xl-4 offset-xl-1 order-1 order-xl-2 offset-0 pl-0">
 						<div class="about-image">

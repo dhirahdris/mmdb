@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-	<title>FTMK NAVIGATION</title>
+	<title>About Us</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Photo Gallery HTML Template">
 	<meta name="keywords" content="endGam,gGaming, magazine, html">
@@ -58,37 +58,47 @@
 				</a>
 				<img src="img/menu-icon.png" alt="" class="menu-icon">
 				<ul class="main-menu">
-					<li class="active"><a href="./home.html">Home</a></li>
-					<li><a href="./about.html">About Us</a></li>
-					<li class="active"><a href="./contact.html">Contact & Location</a></li>
+					<li class="active"><a href="./index.php">Home</a></li>
+					<li><a href="./about.php">About Us</a></li>
+					<li class="active"><a href="./contact.php">Contact & Location</a></li>
 				</ul>
-
+				<div class="social-links-warp">
+					<div class="social-links">
+						<a href=""><i class="fa fa-behance"></i></a>
+						<a href=""><i class="fa fa-dribbble"></i></a>
+						<a href=""><i class="fa fa-twitter"></i></a>
+						<a href=""><i class="fa fa-facebook"></i></a>
+						<a href=""><i class="fa fa-pinterest"></i></a>
+					</div>
+					<div class="social-text">Find us on</div>
+				</div>
+			</div>
 			<div class="copyright">BITP3353 GROUP 9  @ All rights reserved</div>
 		</header>
 		<!-- header section end -->
 
 		<!-- Page section -->
-		<div class="page-section home-page">
-			<div class="hero-slider owl-carousel">
-				<div class="slider-item d-flex align-items-center set-bg" data-setbg="img/ftmk.jpg" data-hash="slide-1">
-					<div class="si-text-box">
-						<span>FACULTY INFOMATION & COMMUNICATION TECHNOLOGY</span>
-						<p>Faculty of Information and Communication Technology (FTMK) was one of the earliest formed faculty at Kolej Universiti Teknikal Kebangsaan Malaysia (KUTKM) on the 1st of December 2000. The Faculty started to operate on 22 June 2001 with its pioneer batch of students of academic session 2001/2002. Since 1st February 2007, KUTKM is known as Universiti Teknikal Malaysia Melaka (UTeM)
-						<br />
-						The Faculty established 5 departments as below:
-						<br />
-						Department of Computer System & Communication
-						<br />
-						Department of Interactive Media
-						<br />
-						Department of Intelligent Computing & Analytics
-						<br />
-						Department of Diploma Studies</p>
+		<div class="page-section about-page">
+			<div class="about-warp">
+				<div class="row">
+					<div class="col-xl-7 order-2 order-xl-1">
+						<div class="about-text">
+							<span>SYSTEM ANALYST | MIZA SYAHIRAH</span>
+							<h2>About the System Analyst</h2>
+							<a href="" class="site-btn about-btn">CLICK ME</a>
+						</div>
+						
+						<a href="./about3.php" class="site-btn about-btn">Click to see next team member</a>
 					</div>
-				
+					<div class="col-xl-4 offset-xl-1 order-1 order-xl-2 offset-0 pl-0">
+						<div class="about-image">
+							<img src="img/" alt="">
+						</div>
+					</div>
 				</div>
-				
-			
+			</div>
+
+		</div>
 		<!-- Page section end-->
 	</div>
 
@@ -113,6 +123,5 @@
 	<script src="js/imagesloaded.pkgd.min.js"></script>
 	<script src="js/circle-progress.min.js"></script>
 	<script src="js/main.js"></script>
-
 	</body>
 </html>

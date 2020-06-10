@@ -58,7 +58,7 @@
 				</a>
 				<img src="img/menu-icon.png" alt="" class="menu-icon">
 				<ul class="main-menu">
-					<li><a href="./home.php">Home</a></li>
+					<li><a href="./index.php">Home</a></li>
 					<li><a href="./gallery.php">Gallery</a></li>
 					<li><a href="./gallery-single.php">Single gallery</a></li>
 					<li class="active"><a href="./blog.php">Blog</a></li>
