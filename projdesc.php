@@ -66,29 +66,21 @@
 			<div class="copyright">BITP3353 GROUP 9  @ All rights reserved</div>
 		</header>
 		<!-- header section end -->
-
-		<!-- Page section -->
+<!-- Page section -->
 		<div class="page-section home-page">
 			<div class="hero-slider owl-carousel">
 				<div class="slider-item d-flex align-items-center set-bg" data-setbg="img/ftmk.jpg" data-hash="slide-1">
 					<div class="si-text-box">
-						<span>FACULTY INFOMATION & COMMUNICATION TECHNOLOGY</span>
-						<p>Faculty of Information and Communication Technology (FTMK) was one of the earliest formed faculty at Kolej Universiti Teknikal Kebangsaan Malaysia (KUTKM) on the 1st of December 2000. The Faculty started to operate on 22 June 2001 with its pioneer batch of students of academic session 2001/2002. Since 1st February 2007, KUTKM is known as Universiti Teknikal Malaysia Melaka (UTeM)
+						<span>PROJECT DESCRIPTION</span>
+						<p>WELCOME TO FTMK NAVIAPP!!
 						<br />
-						The Faculty established 5 departments as below:
-						<br />
-						Department of Computer System & Communication
-						<br />
-						Department of Interactive Media
-						<br />
-						Department of Intelligent Computing & Analytics
-						<br />
-						Department of Diploma Studies</p>
+						This app is solely developed for newcomers or visitors to find your way around our bulding. Just type in the location that you need to be at and this app will show you the way to that location in the building. We even have voice overs that can guideyou through your way.
+						</p>
 					</div>
 				
 				</div>
 				
-			<a href="projdesc.php" class="site-btn about-btn">Click to see next team member</a>
+			<a href="**the chart's link**" class="site-btn about-btn">Click to see next team member</a>
 					
 		<!-- Page section end-->
 	</div>
