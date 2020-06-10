@@ -62,7 +62,7 @@
 					<li><a href="./about.php">About Us</a></li>
 					<li><a href="./contact.php">Contact & Location</a></li>
 					<li><a href="./projdesc.php">Project Description</a></li>
-					<li><a href=".img/chart.pdf">Organisation Chart</a></li>
+					<li><a href="./img/chart.pdf">Organisation Chart</a></li>
 					
 				</ul>
 
