@@ -58,10 +58,9 @@
 				</a>
 				<img src="img/menu-icon.png" alt="" class="menu-icon">
 				<ul class="main-menu">
-					<li class="active"><a href="./home.html">Home</a></li>
-					<li><a href="">Location</a></li>
-					<li><a href="">About Us</a></li>
-					<li><a href="">Contact</a></li>
+					<li class="active"><a href="./home.php">Home</a></li>
+					<li><a href="./about.php">About Us</a></li>
+					<li class="active"><a href="./contact.php">Contact & Location</a></li>
 				</ul>
 
 			<div class="copyright">BITP3353 GROUP 9  @ All rights reserved</div>
