@@ -58,17 +58,14 @@
 				</a>
 				<img src="img/menu-icon.png" alt="" class="menu-icon">
 				<ul class="main-menu">
-<<<<<<< HEAD
 					<li><a href="./index.php">Home</a></li>
 					<li class="active"><a href="./about.php">About Us</a></li>
 					<li><a href="./contact.php">Contact & Location</a></li>
 					<li><a href="./projdesc.php">Project Description</a></li>
 					<li><a href=".img/chart.pdf">Organisation Chart</a></li>
-=======
 					<li class="active"><a href="./index.php">Home</a></li>
 					<li><a href="./about.php">About Us</a></li>
 					<li><a href="./contact.php">Contact & Location</a></li>
->>>>>>> 2d8148fd4a9698bb7da4947cebe076e1cb19a699
 				</ul>
 				<div class="social-links-warp">
 					<div class="social-links">
